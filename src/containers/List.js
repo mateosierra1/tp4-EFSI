@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Card from "../components/Card/Card";
 
-const API = process.env.API;
+const API = "http: //omdbapi.com/?apikey=8f92f29b";
 
 const List = () => {
   const [state, setState] = useState({
@@ -53,9 +53,10 @@ const List = () => {
 
   const { data, loading } = state;
 
-  if (loading) {
+  if (data.le) {
     return <div>Loading...</div>;
   }
+
 
   return (
     <>

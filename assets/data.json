@@ -2,7 +2,7 @@
   {
     "id": "1",
     "Title": "Avatar",
-    "Poster": "avatar.jpg",
+    "Poster": "https://i.picsum.photos/id/482/200/300",
     "Year": "2009",
     "Type": "movie"
   },
@@ -10,14 +10,14 @@
     "id": "2",
     "Title": "Titanic",
     "Year": "1997",
-    "Poster": "titanic.jpg",
+    "Poster": "https://i.picsum.photos/id/482/200/300",
     "Type": "movie"
   },
   {
     "id": "3",
     "Title": "Star Wars: The Force Awakens",
     "Year": "2015",
-    "Poster": "star_wars_the_force_awakens.jpg",
+    "Poster": "https://i.picsum.photos/id/482/200/300",
     "Type": "movie"
   },
   {
@@ -25,14 +25,14 @@
     "Title": "Avengers: Infinity War",
     "Year": "2018",
     "amount": "$2,048,359,754",
-    "Poster": "avengers_infinity_war.jpg",
+    "Poster": "https://i.picsum.photos/id/482/200/300",
     "Type": "movie"
   },
   {
     "id": "5",
     "Title": "Jurassic World",
     "Year": "2015",
-    "Poster": "jurassic_world.jpg",
+    "Poster": "https://i.picsum.photos/id/482/200/300",
     "Type": "movie"
   }
 ]
